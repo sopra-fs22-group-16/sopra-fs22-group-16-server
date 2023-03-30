@@ -13,6 +13,7 @@
 Hannibal is a turn-based strategy game in which players can play against each other over the web. Users can create 1vs1 public or private games without registration. However, it is possible to register to keep records of the games played and compete with other users to be at the top of the leaderboard. Because of the quick nature of the game (you can finish a game in roughly 20 turns). Hannibal is best suited to be played on mobile phones, but can also be played on the Desktop version.  
 
 ### Motivation
+
 We held multiple brainstorming sessions as a group and came up with different project ideas. We decided we preferred to create a game as we were keen on playing a game we envisioned and created together. From the beginning, we envisioned the game to be something which is fun to play without learning too many rules, and something people would enjoy playing, even outside the SoPra requirements. Another major point for us was that the game should be collaborative and thus we decided on a turn-based strategy game as this would be appropriate for the scope of the SoPra. While searching for a name, one of our team members proposed Hannibal, as he was a brilliant strategist who lived between 247 and 183 BC. Because Hannibal moved over the Alps with elephants, we also choose the pixel art icon of the war elephant as our logo.
 
 
